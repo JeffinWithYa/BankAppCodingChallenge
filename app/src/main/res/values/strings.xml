@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ManulifeChallenge</string>
+    <string name="activity2_name">Accounts</string>
+    <string name="activity3_name">Transactions</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_settings">Quit</string>
+</resources>
