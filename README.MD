@@ -7,9 +7,9 @@ This sample implements the acceptance criteria for a coding challenge to build a
 
 ## ScreenShots ##
 
-![image](https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn1%20(1).png)
-![image](https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn2%20(1).png)
-![image](https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn3%20(1).png)
+![image](https://github.com/JeffinWithYa/MLCodingChallenge/blob/master/readme_screenshots/splashscreen.png)
+![image](https://github.com/JeffinWithYa/MLCodingChallenge/blob/master/readme_screenshots/AccountsScreen.png)
+![image](https://github.com/JeffinWithYa/MLCodingChallenge/blob/master/readme_screenshots/transactionScreen.png)
 
 ## How To Build ##
 
