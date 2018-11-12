@@ -9,7 +9,6 @@ This sample implements the acceptance criteria for a coding challenge to build a
 
 ![image](https://github.com/JeffinWithYa/MLCodingChallenge/blob/master/readme_screenshots/splashscreen.png)
 ![image](https://github.com/JeffinWithYa/MLCodingChallenge/blob/master/readme_screenshots/transactionScreen.png)
-![image](https://github.com/JeffinWithYa/MLCodingChallenge/blob/master/readme_screenshots/AccountsScreen.png)
 
 
 ## How To Build ##
